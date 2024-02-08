@@ -1,13 +1,9 @@
 👋 Welcome to my profile! I'm Ritesh Patra, a versatile professional:
 
 • 🌐 Front-end Developer 
-
 • 🎨 UI/UX Designer
-
 • 📚 BCA Scholar
-
 • 💡 Problem Solver
-
 • 🗣️ Skilled Public Speaker
 
 
